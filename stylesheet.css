@@ -11,7 +11,7 @@ body {
     line-height: 1.5;
     margin: 0 auto;
     padding: 0em 1em 0em;
-    max-width: 80vw;
+    max-width: 33vw;
     margin-left: 0vw;
 }
 
@@ -35,4 +35,5 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
     color: black;
+    text-decoration: underline
 }
